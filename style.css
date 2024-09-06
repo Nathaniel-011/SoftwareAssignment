@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:wght@400;700&display=swap");
-@keyframes fadeIn {
+/**@keyframes fadeIn {
   0% {
     opacity: 0; }
   100% {
@@ -16,7 +16,7 @@
 *::after {
   margin: 0;
   padding: 0;
-  box-sizing: inherit; }
+  box-sizing: inherit; } **/
 
 html {
   box-sizing: border-box;
