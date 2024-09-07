@@ -1,23 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:wght@400;700&display=swap");
-/**@keyframes fadeIn {
-  0% {
-    opacity: 0; }
-  100% {
-    opacity: 1; } }
-
-@keyframes slideUp {
-  0% {
-    transform: translateY(5rem); }
-  100% {
-    transform: translateY(0); } }
-
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit; } **/
-
 html {
   box-sizing: border-box;
   font-size: 62.5%; }
